@@ -1,0 +1,28 @@
+h1{
+
+    color: blue;
+    text-align: left;
+    font-size:50px;
+    font-family: Arial
+    
+}
+
+body{
+
+    background-color: wheat;
+}
+
+ol{
+
+    text-align: 50px;
+    font-family: sans-serif;
+
+}
+p{
+    font-style: arial;
+}
+
+h2{
+
+    text-align: center;
+}
